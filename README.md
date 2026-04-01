@@ -192,8 +192,6 @@ captures/packets_1691234567890.enc
 
 You can later decrypt using your `crypto-js` key to view or visualize.
 
--->
-
 ## License
 
 MIT License © 2025
